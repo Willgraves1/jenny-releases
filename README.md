@@ -1,6 +1,6 @@
 # Jenny Downloads
 
-Public downloads for the Jenny native apps (Windows, macOS).
+Public downloads for the Jenny native apps (Windows, macOS, Android).
 
 No source code lives here - this repo exists only so the native apps have
 a public place to be downloaded from, separate from the private main repo.
@@ -10,3 +10,4 @@ a public place to be downloaded from, separate from the private main repo.
 See the [latest release](https://github.com/Willgraves1/jenny-releases/releases/latest) for:
 - `Jenny.exe` - Windows
 - `Jenny.dmg` - macOS
+- `jenny.apk` - Android (direct install; allow installs from your browser when asked)
